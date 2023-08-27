@@ -7,5 +7,12 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: A simple YouTube video downloader
+            Features:
+                - Download video with audio (Highest quality, 1080p, 720p)
+                - Only download the audio (Highest quality available)
+            Modules:
+                - PyTube (External, for the YouTube API)
+                - Tkinter (Internal, for a simple GUI)
+                Coded in Python
 ---
