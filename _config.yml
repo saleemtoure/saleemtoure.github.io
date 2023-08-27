@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
+title: Saleem Toure Issifou
 email: saleemti@uio.no
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+url: https://github.com/saleemtoure
+description: "Saleem Toure Issifou Programming Portfolio"
+keywords: "Python, Java, Software Engineering, Digital Economics"
+skills: "Studying Informatics: Digital Economy and Leadership (University of Oslo)"
+meta_author: Issifou Saleem Toure
 
 # Google webmaster tools
 google_verify:
@@ -19,44 +19,40 @@ bing_verify:
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 191919 #Matte Black
+  primary-rgb: "25,25,25"
+  secondary: 0C0E0C
+  secondary-dark: 2D2D2D 
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Saleem Toure
   location: Location
   social: Around the Web
-  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/saleemtoure
+  - title: linkedin
+    url: https://www.linkedin.com/in/saleem-toure-issifou/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+  # - line: 3481 Melrose Place
+  # - line: Beverly Hills, CA 90210
+  - line: Oslo, Norway
 
 # Build settings
 markdown: kramdown
