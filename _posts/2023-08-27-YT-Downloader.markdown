@@ -16,5 +16,5 @@ description: A simple [YouTube video downloader](https://github.com/saleemtoure/
                 - Os (Internal, for path management) <br>
                 - FFMPEG (External, for mixing video and audio at higher resolutions )<br>
                 - Tkinter (Internal, for a simple GUI) <br> 
-                Coded in Python
+                Coded in Python"
 ---
