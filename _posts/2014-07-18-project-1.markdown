@@ -7,12 +7,12 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: A simple YouTube video downloader
+description: "A simple YouTube video downloader
             Features:
                 - Download video with audio (Highest quality, 1080p, 720p)
                 - Only download the audio (Highest quality available)
             Modules:
                 - PyTube (External, for the YouTube API)
                 - Tkinter (Internal, for a simple GUI)
-                Coded in Python
+                Coded in Python"
 ---
