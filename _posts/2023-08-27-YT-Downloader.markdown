@@ -14,8 +14,11 @@ description: "A simple YouTube video downloader<br>
                 - Only download the audio (Highest quality available) <br>
             Modules: <br>
                 - PyTube (External, for the YouTube API) <br>
-                - Os (Internal, for path management) <br>
-                - FFMPEG (External, for mixing video and audio at higher resolutions )<br>
                 - Tkinter (Internal, for a simple GUI) <br> 
+                - Proglog (External, for progress logging) <br>
+                - Moviepy (External, for mixing video and audio at higher resolutions )<br>
+                - Os (Internal, for path management) <br>
+                - sv_ttk (External, Sun Valley ttk theme for GUI) <br>
+
                 Coded in Python"
 ---
