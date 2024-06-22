@@ -22,10 +22,10 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: FFE24F #Body + txt highlight - Dark grey/blue !yellow
-  primary-rgb: "79,254,108"  #Post highlight color - Dark grey/blue !green
+  primary: 282A36 #Body + txt highlight - Dark grey/blue 
+  primary-rgb: "241, 118, 145"  #Post highlight color - Pink
   secondary: F176C2 #Navbar & footer - Pinkisk
-  secondary-dark: FF0000  #Body color - Blue
+  secondary-dark: FF0000  #Highlight section when scrolling - - Dark grey/blue
 
 # Footer settings
 footer:

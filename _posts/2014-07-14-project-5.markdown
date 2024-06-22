@@ -4,7 +4,7 @@ modal-id: 5
 # date: 2014-07-17
 img: coming_soon.png
 alt: coming soon..
-project-date: August 2023
+# project-date: August 2023
 # client: Start Bootstrap
 # category: Web Development
 link: 
