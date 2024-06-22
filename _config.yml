@@ -1,6 +1,6 @@
 # Site settings
 title: Saleem Toure Issifou
-email: saleemti@uio.no
+email: saleemtoure.work@uio.no
 url: https://github.com/saleemtoure
 description: "Saleem Toure Issifou Programming Portfolio"
 keywords: "Python, Java, Software Engineering, Digital Economics"
@@ -22,8 +22,8 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 191919 #Matte Black
-  primary-rgb: "25,25,25"
+  primary: 282A36 
+  primary-rgb: "25,25,25" 
   secondary: 0C0E0C
   secondary-dark: 2D2D2D 
 

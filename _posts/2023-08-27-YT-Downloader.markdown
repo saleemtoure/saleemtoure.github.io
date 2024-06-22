@@ -6,8 +6,8 @@ img: yt_downloader.png
 alt: YouTube Downloader
 project-date: August 2023
 # client: Start Bootstrap
-# category: Web Development
-link: https://github.com/saleemtoure/learn-python-GUI/tree/main/youtube-downloader
+category: GUI Development
+link: https://github.com/saleemtoure/youtube-downloader
 description: "A simple YouTube video downloader<br>
             Features: <br>
                 - Download video with audio (Highest quality, 1080p, 720p) <br>

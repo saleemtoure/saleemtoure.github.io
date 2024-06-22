@@ -6,12 +6,12 @@ img: to_do_list.png
 alt: To-Do List
 project-date: August 2023
 # client: Start Bootstrap
-# category: Web Development
-link: https://github.com/saleemtoure/python-GUI/tree/main/to-do-list
+category: GUI Development
+link: https://github.com/saleemtoure/to-do-list
 description: "A simple To-Do list application<br>
             Features: <br>
                 - Click to delete task<br>
-                - Save list to .txt file<br>
+                - Autosave list to .txt file<br>
                 - Load .txt file to insert a list<br>
             Modules: <br>
                 - Tkinter (Internal, for a simple GUI) <br> 
