@@ -1,12 +1,9 @@
 ---
 layout: default
 modal-id: 4
-# date: 2014-07-17
-img: coming_soon.png
+img: project_manager.png
 alt: coming soon..
 # project-date: August 2023
-# client: Start Bootstrap
-# category: Web Development
-link: 
+link: https://github.com/saleemtoure/project-manager-app
 description: Coming soon.....
 ---

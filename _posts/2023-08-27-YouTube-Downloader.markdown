@@ -1,12 +1,9 @@
 ---
 layout: default
 modal-id: 1
-date: 2023-08-27
 img: yt_downloader.png
 alt: YouTube Downloader
 project-date: August 2023
-# client: Start Bootstrap
-category: GUI Development
 link: https://github.com/saleemtoure/youtube-downloader
 description: "A simple YouTube video downloader<br>
             Features: <br>

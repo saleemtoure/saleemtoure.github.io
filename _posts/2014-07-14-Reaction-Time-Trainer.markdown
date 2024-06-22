@@ -1,12 +1,9 @@
 ---
 layout: default
 modal-id: 5
-# date: 2014-07-17
-img: coming_soon.png
+img: reaction_training.png
 alt: coming soon..
 # project-date: August 2023
-# client: Start Bootstrap
-# category: Web Development
-link: 
+link: https://github.com/saleemtoure/reaction-training-rgb-light-app
 description: Coming soon.....
 ---
