@@ -22,10 +22,10 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 17181f 
-  primary-rgb: "25,25,25" 
-  secondary: F176C2
-  secondary-dark: 282A36  
+  primary: 17181f #Navbar
+  primary-rgb: "23,24,31"  #navbar
+  secondary: F176C2 #Txt highlight cover
+  secondary-dark: 282A36  #Body color
 
 # Footer settings
 footer:
