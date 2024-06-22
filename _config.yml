@@ -25,7 +25,7 @@ color:
   primary: 282A36 #Body + txt highlight - Dark grey/blue 
   primary-rgb: "241, 118, 145"  #Post highlight color - Pink
   secondary: F176C2 #Navbar & footer - Pinkisk
-  secondary-dark: FF0000  #Highlight section when scrolling - - Dark grey/blue
+  secondary-dark: 282A36  #Highlight section when scrolling - - Dark grey/blue
 
 # Footer settings
 footer:
