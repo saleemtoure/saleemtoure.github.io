@@ -25,7 +25,7 @@ color:
   primary: FFE24F #Body + txt highlight - Dark grey/blue !yellow
   primary-rgb: "79,254,108"  #Post highlight color - Dark grey/blue !green
   secondary: F176C2 #Navbar & footer - Pinkisk
-  secondary-dark: ff0000  #Body color - Blue
+  secondary-dark: FF0000  #Body color - Blue
 
 # Footer settings
 footer:
