@@ -4,7 +4,7 @@ email: saleemtoure.work@uio.no
 url: https://github.com/saleemtoure
 description: "Saleem Toure Issifou Programming Portfolio"
 keywords: "Python, Java, Software Engineering, Digital Economics"
-skills: "Student - 19 <br> Informatics: Digital Economy and Leadership (Bachelor 2023-2026) <br> University of Oslo  "
+skills: "Student - 20 <br> Informatics: Digital Economy and Leadership (Bachelor 2023-2026) <br> University of Oslo  "
 meta_author: Issifou Saleem Toure
 
 # Google webmaster tools
@@ -13,10 +13,7 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
+
 contact: static
 
 
@@ -35,14 +32,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  # - title: twitter
-  #   url: http://twitter.com/jekyllrb
-  # - title: facebook
-  #   url:
-  # - title: stack-overflow
-  #   url: http://stackoverflow.com/questions/tagged/jekyll
-  # - title: bitbucket
-  #   url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/saleemtoure
   - title: linkedin
@@ -50,8 +39,6 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  # - line: 3481 Melrose Place
-  # - line: Beverly Hills, CA 90210
   - line: Oslo, Norway
 
 # Build settings
