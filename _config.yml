@@ -20,8 +20,8 @@ contact: static
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 282A36 #Body + txt highlight - Dark grey/blue 
-  primary-rgb: "241, 118, 145"  #Post highlight color - Pink
-  secondary: F176C2 #Navbar & footer - Pinkisk
+  primary-rgb: "194, 196, 211"  #Post highlight color - Grey
+  secondary: 393f5b #Navbar & footer - Gray/Blueish
   secondary-dark: 282A36  #Highlight section when scrolling - - Dark grey/blue
 
 # Footer settings
