@@ -1,4 +1,4 @@
 ---
 permalink: /
-redirect_to: https://yournewdomain.com
+redirect_to: https://saleemtoure.com
 ---
