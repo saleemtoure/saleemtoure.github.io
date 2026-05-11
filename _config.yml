@@ -7,6 +7,9 @@ keywords: "Python, Java, Software Engineering, Digital Economics"
 skills: "Student - 20 <br> Informatics: Digital Economy and Leadership (Bachelor 2023-2026) <br> University of Oslo  "
 meta_author: Issifou Saleem Toure
 
+plugins:
+  - jekyll-redirect-from
+  
 # Google webmaster tools
 google_verify:
 
