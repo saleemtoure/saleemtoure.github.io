@@ -1,9 +1,0 @@
----
-layout: default
-modal-id: 6
-img: coming_soon.png
-alt: coming soon..
-# project-date: August 2023
-link: 
-description: Coming soon.....
----
